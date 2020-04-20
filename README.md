@@ -3,8 +3,6 @@
 Repository containing backend, frontend and mobile of the final challenge from the Bootcamp Rockseat :rocket:.
 
 
-<p align="center"><img src=".github/fastfeet-logo.png"/></p>
-
 # :page_with_curl: About
 
 <p>This is an application for a fictional operator. The back-end was made with Node.JS, Frontend Web with ReactJS and mobile with React Native. The web part of this application is designed for administrators to manage recipients, mails, see problems and more. The post office can access the application through the mobile version of the application. The following technologies were used in this app: </p>
