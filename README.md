@@ -1,4 +1,4 @@
-# fast-feet-project
+<h1> FastFeet </h1>
 
 Repository containing backend, frontend and mobile of the final challenge from the Bootcamp Rockseat :rocket:.
 
