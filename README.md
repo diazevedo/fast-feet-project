@@ -3,8 +3,8 @@
 </h1>
 
 <h2 align="center">
-  <img alt="Login page" src=".github/mb-login.png" width="45%" />
-  <img alt="Login page" src=".github/laptop-login.png" width="45%" />
+  <img alt="Mobile login page" src=".github/mobile-login.png" width="45%" />
+  <img alt="Web login page" src=".github/laptop-login.png" width="45%" />
 </h2>
 
 <p align="center">
