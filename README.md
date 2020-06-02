@@ -29,7 +29,7 @@ This is an application for a fictional operator. The back-end was made with Node
 
 The main technologies used in this project are:
 
-### Backend
+### :open_file_folder: Backend
 
 - [Node](https://nodejs.org/en/)
 - [JSON Web Token](https://github.com/auth0/node-jsonwebtoken)
@@ -46,7 +46,7 @@ The main technologies used in this project are:
 - [multer](https://github.com/expressjs/multer)
 - [Docker](https://www.docker.com/)
 
-### Frontend
+### :computer: Frontend
 
 - [React](https://reactjs.org/)
 - [React Select](https://react-select.com/)
@@ -55,7 +55,7 @@ The main technologies used in this project are:
 - [Redux Saga](https://redux-saga.js.org/)
 - [Styled Components](https://styled-components.com/)
 
-### Mobile
+### :iphone: Mobile
 
 - [React Native](http://facebook.github.io/react-native/)
 - [Redux](https://redux.js.org/)
