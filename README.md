@@ -13,7 +13,7 @@
   </a>
 </p>
 
-Repository containing backend, frontend and mobile of the final challenge from the [Rockeseat Bootcamp](https://rocketseat.com.br/gostack).
+This repository contais the backend, frontend and mobile of a application that would be used by a delivery company. This app was developed as part of the final challenge of [Rockeseat Bootcamp](https://rocketseat.com.br/gostack).
 
 ## :page_with_curl: About
 
